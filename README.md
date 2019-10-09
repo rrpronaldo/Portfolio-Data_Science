@@ -15,4 +15,5 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	- [MercadoLivre Challenge 2019](https://github.com/rrpronaldo/Portfolio-Data_Science/blob/master/Mercado_Livre_Word_Embedding-LastVersion.ipynb): Train a machine learning model to categorize to product publications based on their titles.
 
 
-	_Tools: NLTK, scikit_ 
+	_Tools: NLTK, scikit, keras
+	_Skills: Word Embeeding, Word Stemmer, Vectorizer, TF-IDF
