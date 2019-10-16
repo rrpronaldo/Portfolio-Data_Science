@@ -12,7 +12,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Natural Language Processing
 
-	- [MercadoLivre Challenge 2019](https://github.com/rrpronaldo/Portfolio-Data_Science/blob/master/Mercado_Livre_Word_Embedding-LastVersion.ipynb): Train a machine learning model to categorize to product publications based on their titles.
+	- [MercadoLivre Challenge 2019](https://github.com/rrpronaldo/Portfolio-Data_Science/blob/master/Portfolio_-_Mercado_Livre_Vs_1.ipynb): Train a machine learning model to categorize to product publications based on their titles.
 
 
 	_Tools: NLTK, scikit, keras_
