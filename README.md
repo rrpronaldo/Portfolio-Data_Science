@@ -6,9 +6,11 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 ## Contents
 
-- ### Machine Learning
+- ### Data Analysis, Feature Engineering and Machine Learning
+	
+	- [House Prices: Advanced Regression Techniques](https://github.com/rrpronaldo/Portfolio-Data_Science/blob/master/Portfolio_-_House_Prices_Vs1.ipynb): This is a Kaggle platform competition, available at https://www.kaggle.com/c/house-prices-advanced-regression-techniques. From a dataset with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, challenges to predict the final price of each home.
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib
+	_Tools: Pandas, Seaborn, Matplotlib, Tensorflow, XGBRegressor and scikit-learn regressors_
 
 - ### Natural Language Processing
 
