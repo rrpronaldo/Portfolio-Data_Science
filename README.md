@@ -15,7 +15,7 @@ _Note: Data used in the projects is for demonstration purposes only._
 	_Skills: Linear Regression_
 
 	
-	- [Wine Quality](https://github.com/rrpronaldo/Portfolio-Data_Science/blob/master/Wine.ipynb): These datasets are available from the [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/wine+quality), and are a paper of [Cortez et al., 2009] called **Modeling wine preferences by data mining from physicochemical properties.** 
+	- [Notebook Wine Quality](https://github.com/rrpronaldo/Portfolio-Data_Science/blob/master/Wine.ipynb): These datasets are available from the [UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/wine+quality), and are a paper of [Cortez et al., 2009] called **Modeling wine preferences by data mining from physicochemical properties.** 
 
 	_Tools: Pandas, Seaborn, Matplotlib, Tensorflow, XGBClassifier, SVMClassifier and Random Forest Classifier_
 	
