@@ -6,6 +6,14 @@ _Note: Data used in the projects is for demonstration purposes only._
 
 ## Contents
 
+- ### Deep Learning
+	
+	- [Coloring black and white images](https://github.com/rrpronaldo/colorful_image_colorization): Image colorization is the process of taking an input grayscale (black and white) image and then producing an output colorized image. The main purpose of this is to color some pictures of my grandfather.
+
+	_Tools: Pandas, Numpy, Matplotlib, Tensorflow, Pytorch_
+	
+	_Skills: Neural Networks, Deep Learning_
+
 - ### Data Analysis, Feature Engineering and Machine Learning
 	
 	- [Notebook House Prices](https://github.com/rrpronaldo/Portfolio-Data_Science/blob/master/Portfolio_-_House_Prices_Vs1.ipynb): This is a Kaggle platform competition, available at [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). From a dataset with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, challenges to predict the final price of each home.
